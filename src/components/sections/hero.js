@@ -72,7 +72,7 @@ const Hero = () => {
   );
   const five = (
     <a className="email-link" href="manyapawanverma@gmail.com" target="_blank" rel="noreferrer">
-      !
+      Ping me!
     </a>
   );
 
