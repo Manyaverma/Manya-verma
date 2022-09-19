@@ -146,7 +146,7 @@ const About = () => {
               <a href="https://www.linkedin.com/in/sunrays-future-solar-pvt-ltd-858052111/">
                 a huge corporation
               </a>
-              ,{' '}
+              , and{' '}
               <a href="https://studentambassadors.microsoft.com/">
                 a student-led Microsoft program
               </a>
