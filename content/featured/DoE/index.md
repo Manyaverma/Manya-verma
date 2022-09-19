@@ -1,15 +1,17 @@
 ---
-date: '3'
-title: 'Velanto.'
-cover: './course-card.png'
-external: 'https://github.com/Manyaverma/Velanto'
-cta: 'https://github.com/Manyaverma/Velanto'
+date: '2'
+title: 'DoE BoT'
+cover: './bot11.jpg'
+external: 'https://www.linkedin.com/posts/manya-verma_botathon-rpa-uipath-activity-6910191287098867712-HREi?utm_source=share&utm_medium=member_desktop'
+cta: 'https://www.linkedin.com/posts/manya-verma_botathon-rpa-uipath-activity-6910191287098867712-HREi?utm_source=share&utm_medium=member_desktop'
 tech:
-  - React
-  - MongoDB
-  - Node.js
-  - Styled Components
-  - HTML+CSS
+  - RPA
+  - UiPath
+  - RE-Framework
+  - Automation
+  - Integration Services
 ---
 
-Built an E-commerce web using MERN [MongoDB,React,Node.js] Full stack with a minimal and light theme based UI. It is an web app inspired from a famous handbag company which includes frontedn , backen, database and admin manage page too. Currently final updates are running into it.
+- [Runner-Up] [Botathon-2.0] ( National level Bot making competition) project made to solve the live problem of the university marksheet printing and registrar department.
+- Bot using RE framework with the automatic run mechanism over trigger.
+- reduced manual time from 3 months to [110] seconds.

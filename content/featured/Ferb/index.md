@@ -1,15 +1,15 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '3'
+title: 'Ferb-Latin Translator'
+cover: './Ferb.png'
+github: 'https://github.com/Manyaverma/Ferb-talk'
+external: 'https://ferb-talk-latin.netlify.app/'
 tech:
   - React
   - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - HTML
+  - CSS
+  - Fun-Translation API
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app using Fun-translations API to convert the sentence to Ferb-Latin. It was my [1st] project from which I have started my web development [journey] that is why I have kept this as featured.
